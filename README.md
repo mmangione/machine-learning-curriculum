@@ -360,33 +360,3 @@ brain works so that you can discover new deep learning breakthrough
 * [Skynet Today](http://www.skynettoday.com) Accessible and informed coverage of the latest AI hype and panic
 * [https://github.com/aikorea/awesome-rl](https://github.com/aikorea/awesome-rl) Awesome Reinforcement Learning
 * [https://github.com/artix41/awesome-transfer-learning](https://github.com/artix41/awesome-transfer-learning) Awesome Transfer Learning
-
-## I am confused, too many links, where do I start?
-If you are a beginner and want to get started with my suggestions, please read this issue:
-[https://github.com/off99555/machine-learning-curriculum/issues/4](https://github.com/off99555/machine-learning-curriculum/issues/4)
-
-## Disclaimer
-
-This is a really big list because I also point to other people's list to ensure
-that most of the resources are accessible from this page without you looking
-anywhere else.
-
-Most of these resources are the ones I enjoy reading/watching. I wouldn't put
-something that I am not interested in here.
-
-**NOTE**: There is no particular rank for each link. The order in which they
-appear does not convey any meaning and should not be treated differently.
-
-## How to contribute to this list
-1. Fork this [repository](https://github.com/off99555/machine-learning-curriculum), then apply your change.
-2. Make a [pull request](https://github.com/off99555/machine-learning-curriculum/pull/new/master) and tag me if you want.
-3. That's it. If your edition is useful, I'll merge it.
-
-Or you can just submit a [new issue](https://github.com/off99555/machine-learning-curriculum/issues/new)
-containing the resource you want me to include if you don't have time to send a pull request.
-
-The resource you want to include should be free to study.
-
-<hr>
-
-[![Built with Spacemacs](https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg)](http://spacemacs.org)
